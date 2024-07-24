@@ -566,6 +566,7 @@ Media Queries */
   }
   .about-content.about-content .right {
     flex: 100%;
+
   }
   .mywork .mywork-content .card,
   .skills .skills-content .column {
